@@ -1,6 +1,6 @@
 # Table of contents
 
-* [首頁](README.md)
+* [建築工具教學網](README.md)
 
 ## WorldEdit
 
