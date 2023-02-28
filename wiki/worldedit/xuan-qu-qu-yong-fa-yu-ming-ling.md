@@ -6,6 +6,10 @@ description: >-
 
 # 選取區用法與命令
 
+{% hint style="info" %}
+本網頁的教學可能會包含更進階的 FastAsyncWorldEdit
+{% endhint %}
+
 ## 選擇選區 <a href="#xuan-ze-xuan-ou" id="xuan-ze-xuan-ou"></a>
 
 WorldEdit允許你以選擇長方體的兩個角上的點的方式來選擇長方體（想像一個3D的長方體）。\
