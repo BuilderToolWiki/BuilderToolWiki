@@ -4,4 +4,5 @@
 
 ## WorldEdit
 
-* [WorldEdit教學](worldedit/worldedit-jiao-xue.md)
+* [WorldEdit 介紹](worldedit/worldedit-info/README.md)
+  * [FastAsyncWorldEdit 介紹](worldedit/worldedit-info/fastasyncworldedit-info.md)
