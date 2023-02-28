@@ -60,7 +60,7 @@ WorldEdit允許你以選擇長方體的兩個角上的點的方式來選擇長�
 
 使用`//contract 10 down`將選區會從上往下進行收縮。
 
-![](https://i.imgur.com/sxXhptV.png)
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ### **移動選區位置**(`//shift`) <a href="#yi-dong-xuan-ou-wei-zhi-shift" id="yi-dong-xuan-ou-wei-zhi-shift"></a>
 
@@ -141,9 +141,7 @@ WorldEdit允許你以選擇長方體的兩個角上的點的方式來選擇長�
 * `//sel cuboid`\
   左鍵點擊選擇第一個點，右鍵點擊選擇第二個點。選區為兩個點形成的長方體。
 
-選擇對角來選擇長方形區域
-
-<figure><img src="https://i.imgur.com/rr5ShK4.png" alt=""><figcaption></figcaption></figure>
+選擇對角來選擇長方形區域。
 
 ### **長方體擴大選擇模式（`//sel extend`）** <a href="#chang-fang-ti-kuo-da-xuan-ze-mo-shi-selextend" id="chang-fang-ti-kuo-da-xuan-ze-mo-shi-selextend"></a>
 
@@ -153,14 +151,10 @@ WorldEdit允許你以選擇長方體的兩個角上的點的方式來選擇長�
 ### **多邊形選擇模式（`//sel poly`）** <a href="#duo-bian-xing-xuan-ze-mo-shi-selpoly" id="duo-bian-xing-xuan-ze-mo-shi-selpoly"></a>
 
 * `//sel poly`\
-  左鍵點擊選擇第一個選擇點。之後所有的選擇點使用右鍵點擊。每次右鍵點擊選擇都會增加一個新的點。頂部和底部將始終包含所選的最高點和最低點。
-
-三點
-
-\
+  左鍵點擊選擇第一個選擇點。之後所有的選擇點使用右鍵點擊。每次右鍵點擊選擇都會增加一個新的點。頂部和底部將始終包含所選的最高點和最低點。\
 
 
-<figure><img src="https://i.imgur.com/IdeoDa6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgur.com/IdeoDa6.png" alt=""><figcaption><p>三點</p></figcaption></figure>
 
 ### **橢球選擇模式（`//sel ellispoid`）** <a href="#tuo-qiu-xuan-ze-mo-shi-selellispoid" id="tuo-qiu-xuan-ze-mo-shi-selellispoid"></a>
 
@@ -202,12 +196,6 @@ WorldEdit允許你以選擇長方體的兩個角上的點的方式來選擇長�
 * `//sel convex`\
   左鍵點擊選擇第一個點，其餘的點使用右鍵點擊選擇。選區是一個包含所有選定的點的凸面外殼。
 
-三點成面\
+<figure><img src="https://i.imgur.com/mu4l0ec.png" alt=""><figcaption><p>三點成面</p></figcaption></figure>
 
-
-<figure><img src="https://i.imgur.com/mu4l0ec.png" alt=""><figcaption></figcaption></figure>
-
-四點成體\
-
-
-<figure><img src="https://i.imgur.com/NodXtvp.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgur.com/NodXtvp.png" alt=""><figcaption><p>四點成體</p></figcaption></figure>
