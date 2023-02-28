@@ -4,8 +4,9 @@
 
 ## WorldEdit
 
-* [WorldEdit 介紹](worldedit/info.md)
+* [WorldEdit 介紹](worldedit/worldedit-jiao-xue.md)
 * [FastAsyncWorldEdit 介紹](worldedit/fastasyncworldedit-info.md)
+* [選取區用法與命令](worldedit/xuan-qu-qu-yong-fa-yu-ming-ling.md)
 
 ## WorldPainter
 
