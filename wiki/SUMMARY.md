@@ -4,5 +4,9 @@
 
 ## WorldEdit
 
-* [WorldEdit 介紹](worldedit/worldedit-info/README.md)
-  * [FastAsyncWorldEdit 介紹](worldedit/worldedit-info/fastasyncworldedit-info.md)
+* [WorldEdit 介紹](worldedit/info.md)
+* [FastAsyncWorldEdit 介紹](worldedit/fastasyncworldedit-info.md)
+
+## WorldPainter
+
+* [WorldPainter 介紹](worldpainter/info.md)
