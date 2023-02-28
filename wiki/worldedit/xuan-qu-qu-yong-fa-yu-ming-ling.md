@@ -12,6 +12,6 @@ WorldEdit允許你以選擇長方體的兩個角上的點的方式來選擇長�
 下方的圖展示瞭如何用兩點形成一個長方體。你選擇的長方體是與 Minecraft 方塊對齊的。\
 
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>長方體選取區式意圖</p></figcaption></figure>
 
 有許多方法可以用來選擇這兩個點，你可以混合使用這些方法。
